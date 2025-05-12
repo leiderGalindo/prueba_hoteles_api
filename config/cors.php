@@ -21,7 +21,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost:5173',
-        'https://prueba-hoteles-itbf.vercel.app'
+        'https://pruebahoteles.vercel.app'
     ],
 
     'allowed_origins_patterns' => [],
